@@ -1,0 +1,13 @@
+[book]
+authors = ["w2ll"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Output -- Updated weekly"
+
+[preprocessor.hide]
+hide = false
+
+[output.html]
+additional-css = ["theme/pagetoc.css","theme/whichlang/whichlang.css"]
+additional-js = ["theme/pagetoc.js", "theme/whichlang/whichlang.js"]
